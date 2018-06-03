@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "sorci",
+    "name": "Sorcery Craft",
+    "description": "Adds sorcery to Minecraft",
+    "mcversion": "1.12.2",
+    "version": "0.1",
+    "authors": ["Zaphodious", "Kenai"],
+    "dependencies": ["forgelin"]
+  }
+]
